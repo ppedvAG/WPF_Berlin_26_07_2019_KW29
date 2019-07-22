@@ -1,0 +1,14 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\bin\Debug\Animationen.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\bin\Debug\Animationen.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\bin\Debug\Animationen.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Animationen\obj\Debug\Animationen.pdb

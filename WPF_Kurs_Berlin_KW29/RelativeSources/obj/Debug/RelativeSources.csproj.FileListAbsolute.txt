@@ -1,0 +1,15 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\bin\Debug\RelativeSources.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\bin\Debug\RelativeSources.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\bin\Debug\RelativeSources.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\RelativeSources\obj\Debug\RelativeSources.pdb

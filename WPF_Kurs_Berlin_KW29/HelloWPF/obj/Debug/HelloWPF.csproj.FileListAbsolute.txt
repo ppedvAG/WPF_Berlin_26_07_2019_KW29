@@ -1,0 +1,15 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\HelloWPF\obj\Debug\HelloWPF.pdb

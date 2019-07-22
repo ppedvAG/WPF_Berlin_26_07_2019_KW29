@@ -1,0 +1,15 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\bin\Debug\Bindings.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\bin\Debug\Bindings.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\bin\Debug\Bindings.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Bindings\obj\Debug\Bindings.pdb

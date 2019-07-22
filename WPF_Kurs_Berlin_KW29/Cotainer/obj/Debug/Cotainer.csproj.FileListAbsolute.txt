@@ -1,0 +1,15 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\bin\Debug\Cotainer.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\bin\Debug\Cotainer.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\bin\Debug\Cotainer.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Cotainer\obj\Debug\Cotainer.pdb

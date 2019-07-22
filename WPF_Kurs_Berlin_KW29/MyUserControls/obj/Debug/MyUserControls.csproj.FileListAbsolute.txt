@@ -1,0 +1,14 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\ColorPicker.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\ColorPicker.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs

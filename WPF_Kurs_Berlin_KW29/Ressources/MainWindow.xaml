@@ -1,0 +1,33 @@
+﻿<Window x:Class="Ressources.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ressources"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:p="clr-namespace:Ressources.Properties"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="163.841" Width="312.286">
+    <!--Über die Ressourcen von App/Window/Container können für die entsprechende Range Daten
+        zur Verfügung gestellt werden. Die Verbindung von Properties zu diesen Resourcen wird dann
+        über eine StaticResource-Bindung hergestellt. ALternativ kann eine DynamicRessource-Bindung 
+        erstellt werden, wodurch die gebundene Property auf Veränderungen an der Ressource durch 
+        den CodeBehind reagiert.-->
+    <Window.Resources>
+        <SolidColorBrush x:Key="ScbButtonRed" Color="Red"/>
+    </Window.Resources>
+    <StackPanel x:Name="SplMain">
+        <StackPanel.Resources>
+            <sys:Double x:Key="DoubleFontSize">30</sys:Double>
+        </StackPanel.Resources>
+        <!--Eine Anbindung an Ressourcen erfolgt entweder über eine StaticResource-Bindung, welche den Wert einmalig einholt-->
+        <!--oder über eine DynamicResource-Bindung, welche permanent nach Veränderungen sucht und diese übernimmt-->
+        <Button Content="{StaticResource stringRes}"
+                Background="{StaticResource ScbButtonRed}"
+                FontSize="{DynamicResource DoubleFontSize}"
+                Click="Button_Click"/>
+        <Button Content="Hallo" FontSize="{StaticResource DoubleFontSize}"/>
+        <!--Mittels x:static kann u.a. auf die ResX-Bibliothek im Property-Namespace zugegriffen werden-->
+        <TextBlock Text="{x:Static p:Resources.meinString1}"/>
+    </StackPanel>
+</Window>

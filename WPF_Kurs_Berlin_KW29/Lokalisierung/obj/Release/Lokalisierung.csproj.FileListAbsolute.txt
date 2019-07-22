@@ -1,0 +1,17 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Release\Lokalisierung.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Release\Lokalisierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Release\Lokalisierung.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Release\en-US\Lokalisierung.resources.dll
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\Lokalisierung.Properties.Resources.en-US.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Release\en-US\Lokalisierung.resources.dll

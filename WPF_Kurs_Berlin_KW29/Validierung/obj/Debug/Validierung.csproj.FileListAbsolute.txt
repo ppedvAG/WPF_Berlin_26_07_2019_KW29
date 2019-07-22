@@ -1,0 +1,15 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\bin\Debug\Validierung.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\bin\Debug\Validierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\bin\Debug\Validierung.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Validierung\obj\Debug\Validierung.pdb

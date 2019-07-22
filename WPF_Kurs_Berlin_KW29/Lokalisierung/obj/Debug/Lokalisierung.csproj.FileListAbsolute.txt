@@ -1,0 +1,17 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Debug\Lokalisierung.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Debug\Lokalisierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Debug\Lokalisierung.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\bin\Debug\en-US\Lokalisierung.resources.dll
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.Properties.Resources.en-US.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\en-US\Lokalisierung.resources.dll
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\Lokalisierung\obj\Debug\Lokalisierung.pdb

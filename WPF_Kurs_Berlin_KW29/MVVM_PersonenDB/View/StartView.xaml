@@ -1,0 +1,33 @@
+﻿<Window x:Class="MVVM_PersonenDB.View.StartView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_PersonenDB.View"
+        xmlns:vm="clr-namespace:MVVM_PersonenDB.ViewModel"
+        mc:Ignorable="d"
+        Title="Personen Datenbank" Height="186.443" Width="438.484"
+        Style="{StaticResource StyWndMain}"
+        x:Name="WndStartView">
+
+    <Window.DataContext>
+        <!--In MVVM-Views wird das entsprechnde ViewModel als DataContext gesetzt. Dies kann wie bisher im
+        CodeBehind erfolgen oder es wird wie hier eine Instanz des ViewModels in Xaml erzeugt.-->
+        <vm:StartViewModel/>
+    </Window.DataContext>
+    
+    <StackPanel Margin="10">
+        <TextBlock Text="Personen Datenbank" FontSize="30" HorizontalAlignment="Center"/>
+        <WrapPanel Margin="10" HorizontalAlignment="Center">
+            <Button Content="Lade DB" Command="{Binding LadeDbCmd}"/>
+            <Button Content="Öffne DB" 
+                    Command="{Binding OeffneDbCmd}"
+                    CommandParameter="{Binding ElementName=WndStartView}"/>
+        </WrapPanel>
+        <WrapPanel HorizontalAlignment="Center">
+            <TextBlock Text="Es wurden"/>
+            <TextBlock Text="{Binding AnzahlPersonen}"/>
+            <TextBlock Text="Personen geladen."/>
+        </WrapPanel>
+    </StackPanel>
+</Window>

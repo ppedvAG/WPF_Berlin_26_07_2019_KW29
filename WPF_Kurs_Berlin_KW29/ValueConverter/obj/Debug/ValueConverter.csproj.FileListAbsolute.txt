@@ -1,0 +1,16 @@
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\App.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\kh2\source\repos\WPF_Kurs_Berlin_KW29\ValueConverter\obj\Debug\ValueConverter.pdb

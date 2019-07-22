@@ -1,0 +1,35 @@
+﻿<Window x:Class="RoutedEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RoutedEvent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="620.458">
+    <!--RoutedEvents, wie PreviewMouseDown/MouseDown werden durch den kompletten Logic-Tree des XAML-Codes gereicht
+    und können auf jeder Ebene abgefangen und bearbeitet werden. Preview-Events werden von oben nach unten gereicht,
+    dann wird das entsprechende Element-Event geworfen, danach wird das Nicht-Preview-Event nach oben gereicht.-->
+    <StackPanel x:Name="Aqua" Background="Aqua"
+                PreviewMouseLeftButtonDown="SP_PreviewMouseLeftButtonDown"
+                MouseLeftButtonDown="SP_MouseLeftButtonDown">
+        <StackPanel x:Name="Green" Background="Green"
+                    Height="300" Margin="20"
+                    PreviewMouseLeftButtonDown="SP_PreviewMouseLeftButtonDown"
+                    MouseLeftButtonDown="SP_MouseLeftButtonDown">
+            <StackPanel x:Name="Yellow" Background="Yellow"
+                        Height="200" Margin="20"
+                        PreviewMouseLeftButtonDown="SP_PreviewMouseLeftButtonDown"
+                        MouseLeftButtonDown="SP_MouseLeftButtonDown">
+                <StackPanel x:Name="Blue" Background="Blue"
+                            Height="30" Margin="20"
+                            PreviewMouseLeftButtonDown="SP_PreviewMouseLeftButtonDown"
+                            MouseLeftButtonDown="SP_MouseLeftButtonDown"/>
+                <StackPanel x:Name="Red" Background="Red"
+                            Height="30" Margin="20"
+                            PreviewMouseLeftButtonDown="SP_PreviewMouseLeftButtonDown"
+                            MouseLeftButtonDown="SP_MouseLeftButtonDown"/>
+            </StackPanel>
+        </StackPanel>
+        <TextBlock x:Name="TblOutput" Height="200" Background="White"/>
+    </StackPanel>
+</Window>
